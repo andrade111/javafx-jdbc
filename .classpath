@@ -11,11 +11,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql connector">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/java-libs/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
